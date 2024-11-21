@@ -120,15 +120,15 @@ h2{
 .secao-1{
     width: 66%;
     margin-left: 0;
-    padding: 15px;
-    height: 100hv;
+    padding: 50px;
+    height: 100vh;
 }
 
 .secao-2{
     width: 40%;
-    margin-left: 0;;
-    padding: 15px;
-    height: 100hv;
+    margin-left: 0;
+    padding: 50px;
+    height: 100vh;
 }
 
 .mySlides{
