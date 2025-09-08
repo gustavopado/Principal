@@ -105,7 +105,7 @@ h2{
 
 .linha-divisoria{
     width: 0.5%;
-    background-color: red;
+      background-color: rgb(251, 251, 251);
     height: 100hv;
     margin-top: 25px;
     margin-right: 20px;
