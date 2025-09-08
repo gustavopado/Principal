@@ -33,14 +33,14 @@ main{
 }
 
 .links a:hover{
-    color: #e605d3;
-    border-top: 2px solid #e605d3;
-    border-bottom: 2px solid #e605d3;
+    color: #4a63d4;
+    border-top: 2px solid #7766d8;
+    border-bottom: 2px solid #7b6eea;
 }
 
 .link-a-1{
-    background-color: #ec37c7;
-    border: #e605d3 solid 2px;
+    background-color: #262bac;
+    border: #2131c3 solid 2px;
     color: white;
     font-weight: bold;
     padding: 15px;
@@ -49,7 +49,7 @@ main{
 
 .link-a-2{
     background-color: transparent;
-    border: #e605d3 solid 2px;
+    border: #1a1ae3 solid 2px;
     font-weight: bold;
     padding: 5px;
 }
@@ -60,11 +60,11 @@ main{
 }
 
 .span-1{
-    color:#85037a ;
+    color:#1c08cf ;
 }
 
 .span-2{
-    color: #e605d3;
+    color: #1408c2;
 }
 
 footer {
@@ -89,7 +89,7 @@ footer {
 
 .secao-1 h2{
     font-weight: lighter;
-    color: #e605d3;
+    color: #3417a8;
     margin-top: 10px;
 }
 
@@ -99,7 +99,7 @@ h2{
 
 .secao-2 h2{
     font-weight: lighter;
-    color: #e605d3;
+    color: #5a2fcf;
     margin-top: 10px;
 }
 
